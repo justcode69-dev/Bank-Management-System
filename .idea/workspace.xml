@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="03b2e448-fb83-4c1d-8984-f106206cfa89" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bank Management System.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bank/Management/System/Conn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bank/Management/System/CustomerAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bank/Management/System/Deposit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bank/Management/System/LogIn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bank/Management/System/SignUpOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bank/Management/System/SignUpThree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bank/Management/System/SignUpTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/9011509.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/abc.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/atm.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/atmLogo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/bankLogo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/setback.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2xXRNl0T6IYNIv9qpwQmFBeZbaP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.CustomerAccount.executor": "Run",
+    "Application.Deposit.executor": "Run",
+    "Application.LogIn.executor": "Run",
+    "Application.SignUpOne.executor": "Run",
+    "Application.SignUpThree.executor": "Run",
+    "Application.SignUpTwo.executor": "Run",
+    "Application.Transaction.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Mohit Raj/IdeaProjects/Bank Management System",
+    "onboarding.tips.debug.path": "C:/Users/Mohit Raj/IdeaProjects/Bank Management System/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "JAVA",
+      "PLAIN_TEXT"
+    ]
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="03b2e448-fb83-4c1d-8984-f106206cfa89" name="Changes" comment="" />
+      <created>1748082397041</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1748082397041</updated>
+    </task>
+    <servers />
+  </component>
+</project>
